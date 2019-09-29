@@ -1,9 +1,9 @@
 {
-    "name": "morpheusbr/flash",
-    "description": "Sistema flash",
+    "name": "morpheusbr/user",
+    "description": "Classe Usuario",
     "type": "project",
     "keywords": ["login","user"],
-    "homepage": "https://github.com/morpheusbr/Flash",
+    "homepage": "https://github.com/morpheusbr/User",
     "type": "library",
     "license": "MIT",
     "authors": [
